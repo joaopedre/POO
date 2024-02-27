@@ -1,0 +1,4 @@
+Abrir o Promp de comando --- cmd
+
+Lista os arquivos e pastas --- dir
+Criar uma pasta -- md
