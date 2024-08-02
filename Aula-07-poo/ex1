@@ -1,0 +1,8 @@
+import random 
+
+def __init__(self, iniciar):
+    self.__totaldebolas = 0
+    self.__sorteadas = []
+    self.__disponíveis = []
+def iniciar(self):
+    
