@@ -1,0 +1,32 @@
+body{
+    background-color: cadetblue;
+}
+@media screen and (min-width: 1000px){
+    body{
+        background-color: aquamarine;
+    }
+    p{
+        display: none;
+    }
+}
+@media screen and (min-width: 800px){
+    body{
+        background-color: deepskyblue;
+    }
+    p{
+        visibility: hidden;
+    }
+}
+@media screen and (max-width: 500px){
+    body{
+        background-color: red;
+    }
+    p{
+        display: block;
+    }
+}
+li{
+    border: orange;
+    display: block
+    visibility: hidden;
+}        
